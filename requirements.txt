@@ -1,0 +1,2 @@
+matplotlib==3.6.3
+pycocotools==2.0.6
